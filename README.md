@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, WebServices and Game Development**
 
-- 📫 How to reach me **matheus.camargos@estudante.iftm.edu.br**
+- 📫 How to reach me **kannon.marih@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
